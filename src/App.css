@@ -1,0 +1,22 @@
+.post-item{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  color: black;
+}
+
+
+.post-item img{
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+.title{
+  display: inline-block;
+}
+
+
+.rbc-event{
+  background-color: white;
+  border: 1px solid black;
+}
